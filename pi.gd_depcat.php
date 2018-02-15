@@ -29,8 +29,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  * @package		ExpressionEngine
  * @category		Plugin
  * @author		  Richard Whitmer/Godat Design
- * @copyright		Copyright (c) YYYY
- * @link			https://github.com/Panchesco/Gd_depcat
+ * @copyright		Copyright (c) 2018
+ * @link			https://github.com/Panchesco/gd_depcat
  */
 
 class Gd_depcat {
